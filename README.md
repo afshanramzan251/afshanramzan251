@@ -5,7 +5,7 @@
 
 # Hi there!  I'm **Afshan Ramzan**
 
-> *"Making technology simple and learning meaningful through creativity and curiosity."*
+> *Making technology simple and learning meaningful through creativity and curiosity.*
 
 
 
@@ -47,9 +47,6 @@ I like using code, creativity, and analytical thinking to tackle practical issue
 > **WordPress Developer** — *Algorydhem Developers*  
 >  Currently Working  
 > Developing and customizing WordPress websites and themes for business clients.
-
----
-
 ---
 
 ##  My GitHub Repositories
@@ -77,6 +74,8 @@ Here are some of my recent and learning-based projects hosted on GitHub 👇
 - **Machine Learning (ML)**
 - **Artificial Intelligence (AI)**
 - **Deep Learning (DL)**
+  
+---
 
 ###  Tools
 - Visual Studio Code  
