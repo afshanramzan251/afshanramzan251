@@ -7,20 +7,9 @@
 
 > *"Making technology simple and learning meaningful through creativity and curiosity."*
 
----
 
-##  Table of Contents
-- [About Me](#about-me)
-- [Education](#education)
-- [Experience](#experience)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Soft Skills](#soft-skills)
-- [Goals](#goals)
-- [Contact Me](#contact-me)
-- [GitHub Stats](#github-stats)
 
----
+
 
 ##  About Me
 **Name:** Afshan Ramzan  
@@ -61,6 +50,23 @@ I like using code, creativity, and analytical thinking to tackle practical issue
 
 ---
 
+---
+
+##  My GitHub Repositories
+
+Here are some of my recent and learning-based projects hosted on GitHub 👇  
+
+- [**e-booking**](https://github.com/afshanramzan251/e-booking)  
+  > A web-based project for managing bookings efficiently with user authentication and database integration.
+
+- [**Quran-gpt-21**](https://github.com/afshanramzan251/Quran-gpt-21)  
+  > A conversational AI project using GPT to answer Quran-related queries and provide Tafseer guidance.
+
+- [**my-first-repo**](https://github.com/afshanramzan251/my-first-repo)  
+  > My first GitHub repository created for learning Git and Markdown basics.
+
+---
+
 ##  Skills
 
 ###  Technical Skills
@@ -84,48 +90,13 @@ I like using code, creativity, and analytical thinking to tackle practical issue
 - **E-Rozgar Training Program** – Front-End Development (HTML, CSS, Bootstrap)  
 - **Back-End Development** – PHP & Laravel  
 - **Artificial Intelligence (AI)** – Professional Certification  
-- **Tarjma and Tafseer-ul-Quran**  
-
 ---
 
-##  Soft Skills
-- Communication & Presentation  
-- Problem Solving & Critical Thinking  
-- Classroom & Time Management  
-- Creativity & Innovation  
-- Team Collaboration  
-- Student Engagement & Mentorship  
-- Adaptability & Continuous Learning  
+##  Contact Me
+ Email: [afshanramzan251@gmail.com](mailto:afshanramzan251@gmail.com)  
+ LinkedIn: [linkedin.com/in/afshan-ramzan-bb756b2a8](https://www.linkedin.com/in/afshan-ramzan-bb756b2a8/)  
+ GitHub: [github.com/afshanramzan251](https://github.com/afshanramzan251)
 
 ---
-
-##  Interests
--  Book Reading  
--  Research on Emerging IT Trends  
--  Creative Writing & Blogging  
- 
-
----
-
-##  Goals   
-- [ ] Publish portfolio website  
-- [ ] Contribute to open-source ML projects  
-- [ ] Learn Power BI or Tableau for Data Visualization  
-
----
-
-## ✨ Contact Me
-📧 Email: [afshanramzan251@gmail.com](mailto:afshanramzan251@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/afshan-ramzan-bb756b2a8](https://www.linkedin.com/in/afshan-ramzan-bb756b2a8/)  
-🌍 GitHub: [github.com/afshanramzan251](https://github.com/afshanramzan251)
-
----
-
-## 📊 GitHub Stats
-![Afshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshanramzan251&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshanramzan251&layout=compact)
-
----
-
 > *“The beautiful thing about learning is that nobody can take it away from you.” — B.B. King*
 
