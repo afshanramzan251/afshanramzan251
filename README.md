@@ -83,13 +83,6 @@ Here are some of my recent and learning-based projects hosted on GitHub 👇
 - Git & GitHub  
 - Jupyter Notebook  
 - MS Office Suite (Word, Excel, PowerPoint)
-
----
-
-## 🧾 Certifications
-- **E-Rozgar Training Program** – Front-End Development (HTML, CSS, Bootstrap)  
-- **Back-End Development** – PHP & Laravel  
-- **Artificial Intelligence (AI)** – Professional Certification  
 ---
 
 ##  Contact Me
